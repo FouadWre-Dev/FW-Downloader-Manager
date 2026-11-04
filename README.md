@@ -81,7 +81,22 @@
 ### Main Window
 
 <div align="center">
-  <img src="docs/screenshots/main-window.png" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_1_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_2_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_3_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_4_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_5_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_6_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_7_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_8_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_9_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_10_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_11_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_12_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_13_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_14_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_15_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_16_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
 </div>
 
 ### Adding Downloads

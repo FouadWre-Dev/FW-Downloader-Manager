@@ -129,7 +129,7 @@
 ### Themes
 
 <div align="center">
-  <img src="docs/screenshots/themes.png" alt="Available themes" width="85%">
+  <img src="docs/screenshots/photo_2_2026-11-04_20-22-06.jpg" alt="Available themes" width="85%">
 </div>
 
 > The screenshots use example file names and values only. The extension preview was captured on a local sample player, not a real video site.

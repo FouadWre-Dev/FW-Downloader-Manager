@@ -97,6 +97,7 @@
   <img src="docs/screenshots/photo_14_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
   <img src="docs/screenshots/photo_15_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
   <img src="docs/screenshots/photo_16_2026-11-04_20-22-06.jpg" alt="Main window with download list, groups and sidebar" width="85%">
+  <img src="docs/screenshots/photo_2026-11-05_01-20-08.jpg" alt="Main window with download list, groups and sidebar" width="85%">
 </div>
 
 ### Adding Downloads

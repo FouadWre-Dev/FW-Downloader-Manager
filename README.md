@@ -300,7 +300,7 @@ Questions, bug reports or suggestions?
 
 - **Bugs & feature requests:** open an issue in this repository's **Issues** tab. Please include your program version, Windows version and, for video problems, your browser and the site involved.
 - **Telegram:** [t.me/DevFouad](https://t.me/DevFouad)
-- **Facebook:** [facebook.com/hakimDvloper](https://www.facebook.com/)
+- **Facebook:** [facebook.com/](https://www.facebook.com/)
 - **Built-in guide:** *About → Program Guide* inside the program.
 
 ---

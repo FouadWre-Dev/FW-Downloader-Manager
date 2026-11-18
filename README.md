@@ -2,7 +2,7 @@
 
 **A fast, free download manager for Windows, with segmented downloads, video & playlist support, queues, a scheduler and a browser extension.**
 
-**Version 1.4.16** · Windows · 7 interface languages · Free to use · Closed source
+**Version 1.4.27** · Windows · 7 interface languages · Free to use · Closed source
 
 [Download](#download) · [Features](#features) · [Screenshots](#screenshots) · [Installation](#installation) · [How to Use](#how-to-use) · [Languages](#supported-languages) · [Privacy](#privacy) · [Support](#support--contact)
 
